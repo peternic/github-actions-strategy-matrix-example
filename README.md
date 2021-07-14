@@ -4,7 +4,7 @@
 
 [![Strategy Matrix Walkthrough](https://img.youtube.com/vi/z_fjpPbaAgw/0.jpg)](https://www.youtube.com/watch?v=z_fjpPbaAgw)
 
-> Click To Watch ☝️ - The Matrix of Github Actions
+> Click To Watch ☝️ - The Matrix of Github Action
 
 ![Matrix run Diagram](./assets/matrix-run-diagram.png)
 
